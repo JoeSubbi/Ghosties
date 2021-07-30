@@ -7849,3 +7849,274 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.30-22.39.41:308][ 84]LogSavePackage: Moving 'H:/UnrealEngine Projects/2021 Game Jam/Ghosties/RewindGunfight/Saved/FirstPersonExampleMap_Auto6CF8D6E4B486D13EE70AD57999F07C909.tmp' to 'H:/UnrealEngine Projects/2021 Game Jam/Ghosties/RewindGunfight/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
 [2021.07.30-22.39.41:323][ 84]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.097
 [2021.07.30-22.39.41:323][ 84]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.097
+[2021.07.30-22.47.05:133][424]Cmd: EDIT COPY
+[2021.07.30-22.47.05:309][433]Cmd: EDIT COPY
+[2021.07.30-22.47.05:491][443]Cmd: EDIT COPY
+[2021.07.30-22.47.05:672][453]Cmd: EDIT COPY
+[2021.07.30-22.47.11:068][733]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.07.30-22.47.11:090][733]LogContentBrowser: Creating deferred item: NewWorld
+[2021.07.30-22.47.20:118][225]LogContentBrowser: Attempting asset rename: NewWorld -> EnemyPrototypingMap
+[2021.07.30-22.47.20:128][225]LogContentBrowser: End creating deferred item NewWorld
+[2021.07.30-22.47.22:171][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.07.30-22.47.33:947][329]LogSlate: Window 'Save Content' being destroyed
+[2021.07.30-22.47.34:016][329]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap
+[2021.07.30-22.47.34:018][329]Cmd: MAP LOAD FILE="H:/UnrealEngine Projects/2021 Game Jam/Ghosties/RewindGunfight/Content/FirstPersonBP/Maps/EnemyPrototypingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.30-22.47.34:018][329]LightingResults: New page: Lighting Build
+[2021.07.30-22.47.34:046][329]LoadErrors: New page: Loading map: EnemyPrototypingMap.umap
+[2021.07.30-22.47.34:050][329]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_Enemy_2.Muzzle)
+[2021.07.30-22.47.34:083][329]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-22.47.34:083][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-22.47.34:084][329]MapCheck: New page: Map Check
+[2021.07.30-22.47.34:084][329]LightingResults: New page: Lighting Build
+[2021.07.30-22.47.34:136][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.30-22.47.34:148][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.07.30-22.47.34:152][329]LogAudio: Display: Audio Device (ID: 1) registered with world 'EnemyPrototypingMap'.
+[2021.07.30-22.47.34:152][329]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.30-22.47.34:153][329]LogAIModule: Creating AISystem for world EnemyPrototypingMap
+[2021.07.30-22.47.34:199][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.07.30-22.47.34:437][329]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.30-22.47.34:439][329]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.148ms to complete.
+[2021.07.30-22.47.34:439][329]LogFileHelpers: Loading map 'EnemyPrototypingMap' took 0.421
+[2021.07.30-22.47.38:859][585]Cmd: EDIT PASTE
+[2021.07.30-22.47.38:885][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:885][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:926][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:926][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:927][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:927][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:927][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:927][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:928][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:928][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:928][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:928][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:929][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:929][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:929][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:929][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:929][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:930][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:934][585]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.30-22.47.38:946][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:946][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:946][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:946][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:946][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:946][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:947][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:947][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:948][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:948][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:948][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:948][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:948][585]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.38:948][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.38:983][585]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle)
+[2021.07.30-22.47.48:328][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.30-22.47.48:539][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.30-22.47.48:539][ 78]PIE: New page: PIE session: EnemyPrototypingMap (Jul 30, 2021, 8:47:48 AM)
+[2021.07.30-22.47.48:539][ 78]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap
+[2021.07.30-22.47.48:559][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019670s)
+[2021.07.30-22.47.48:561][ 78]LogAIModule: Creating AISystem for world EnemyPrototypingMap
+[2021.07.30-22.47.48:561][ 78]LogPlayLevel: PIE: World Init took: (0.002160s)
+[2021.07.30-22.47.48:561][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap.EnemyPrototypingMap (0.022000s)
+[2021.07.30-22.47.48:619][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2021.07.30-22.47.48:621][ 78]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.07.30-22.47.48:621][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.30-22.47.48:621][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.30-22.47.48:621][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.30-22.47.48:621][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.30-22.47.48:621][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.30-22.47.48:621][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.30-22.47.48:621][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.30-22.47.48:621][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.30-22.47.48:622][ 78]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.30-22.47.48:622][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.30-22.47.48:627][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.30-22.47.48:627][ 78]LogAudioMixer: Display: 1: FrontRight
+[2021.07.30-22.47.48:643][ 78]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.07.30-22.47.48:643][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.30-22.47.48:644][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.30-22.47.48:644][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.30-22.47.48:644][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.30-22.47.48:644][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.30-22.47.48:644][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.30-22.47.48:662][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.30-22.47.48:663][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.30-22.47.48:663][ 78]LogInit: FAudioDevice initialized.
+[2021.07.30-22.47.48:663][ 78]LogAudio: Display: Audio Device (ID: 29) registered with world 'EnemyPrototypingMap'.
+[2021.07.30-22.47.48:676][ 78]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.30-22.47.48:679][ 78]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.47.48:679][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.47.48:679][ 78]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap.EnemyPrototypingMap up for play (max tick rate 60) at 2021.07.30-15.47.48
+[2021.07.30-22.47.48:681][ 78]LogWorld: Bringing up level for play took: 0.004336
+[2021.07.30-22.47.48:681][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.07.30-22.47.48:685][ 78]PIE: Server logged in
+[2021.07.30-22.47.48:686][ 78]PIE: Play in editor total start time 0.205 seconds.
+[2021.07.30-22.48.09:857][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.30-22.48.09:857][336]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap
+[2021.07.30-22.48.09:857][336]LogWorld: UWorld::CleanupWorld for EnemyPrototypingMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-22.48.09:858][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-22.48.09:873][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.30-22.48.09:895][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-22.48.09:938][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.30-22.48.09:939][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-22.48.09:940][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-22.48.09:965][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.07.30-22.48.10:013][337]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.07.30-22.48.26:079][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.07.30-22.48.27:003][240]LogSavePackage: Moving 'H:/UnrealEngine Projects/2021 Game Jam/Ghosties/RewindGunfight/Saved/EnemyPrototypingMapD80181FD430FEC83CBB3279CD88BD8D5.tmp' to 'H:/UnrealEngine Projects/2021 Game Jam/Ghosties/RewindGunfight/Content/FirstPersonBP/Maps/EnemyPrototypingMap.umap'
+[2021.07.30-22.48.27:060][240]AssetCheck: New page: Asset Save: EnemyPrototypingMap
+[2021.07.30-22.48.27:060][240]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap
+[2021.07.30-22.48.28:551][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.07.30-22.48.36:383][312]LogSlate: Window 'Save Content' being destroyed
+[2021.07.30-22.48.36:500][312]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.07.30-22.48.36:500][312]Cmd: MAP LOAD FILE="H:/UnrealEngine Projects/2021 Game Jam/Ghosties/RewindGunfight/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.30-22.48.36:500][312]LightingResults: New page: Lighting Build
+[2021.07.30-22.48.36:500][312]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2021.07.30-22.48.36:501][312]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle)
+[2021.07.30-22.48.36:501][312]LogWorld: UWorld::CleanupWorld for EnemyPrototypingMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-22.48.36:501][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-22.48.36:501][312]MapCheck: New page: Map Check
+[2021.07.30-22.48.36:501][312]LightingResults: New page: Lighting Build
+[2021.07.30-22.48.36:556][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.30-22.48.36:562][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.07.30-22.48.36:566][312]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.07.30-22.48.36:573][312]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.30-22.48.36:573][312]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.30-22.48.36:623][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.07.30-22.48.36:651][312]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.30-22.48.36:652][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.84ms to complete.
+[2021.07.30-22.48.36:652][312]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.152
+[2021.07.30-22.48.38:013][372]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.30-22.48.38:087][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.30-22.48.38:087][372]PIE: New page: PIE session: FirstPersonExampleMap (Jul 30, 2021, 8:48:38 AM)
+[2021.07.30-22.48.38:121][372]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.30-22.48.38:145][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023602s)
+[2021.07.30-22.48.38:146][372]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.30-22.48.38:146][372]LogPlayLevel: PIE: World Init took: (0.001503s)
+[2021.07.30-22.48.38:146][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025321s)
+[2021.07.30-22.48.38:199][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.07.30-22.48.38:200][372]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.07.30-22.48.38:200][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.30-22.48.38:200][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.30-22.48.38:200][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.30-22.48.38:200][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.30-22.48.38:200][372]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.30-22.48.38:200][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.30-22.48.38:200][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.30-22.48.38:200][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.30-22.48.38:201][372]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.30-22.48.38:201][372]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.30-22.48.38:206][372]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.30-22.48.38:206][372]LogAudioMixer: Display: 1: FrontRight
+[2021.07.30-22.48.38:220][372]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.07.30-22.48.38:221][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.30-22.48.38:221][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.30-22.48.38:221][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.30-22.48.38:221][372]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.30-22.48.38:221][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.30-22.48.38:221][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.30-22.48.38:243][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.30-22.48.38:243][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.30-22.48.38:243][372]LogInit: FAudioDevice initialized.
+[2021.07.30-22.48.38:243][372]LogAudio: Display: Audio Device (ID: 30) registered with world 'FirstPersonExampleMap'.
+[2021.07.30-22.48.38:252][372]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.30-22.48.38:255][372]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.07.30-15.48.38
+[2021.07.30-22.48.38:255][372]LogWorld: Bringing up level for play took: 0.002483
+[2021.07.30-22.48.38:256][372]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.07.30-22.48.38:259][372]PIE: Server logged in
+[2021.07.30-22.48.38:261][372]PIE: Play in editor total start time 0.178 seconds.
+[2021.07.30-22.48.40:195][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.30-22.48.40:195][484]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.30-22.48.40:195][484]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-22.48.40:196][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-22.48.40:205][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.30-22.48.40:212][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-22.48.40:256][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.30-22.48.40:257][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-22.48.40:258][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-22.48.40:282][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.30-22.48.40:287][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.07.30-22.48.40:332][485]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.07.30-22.48.41:368][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.07.30-22.48.43:180][541]LogSlate: Window 'Save Content' being destroyed
+[2021.07.30-22.48.43:252][541]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap
+[2021.07.30-22.48.43:252][541]Cmd: MAP LOAD FILE="H:/UnrealEngine Projects/2021 Game Jam/Ghosties/RewindGunfight/Content/FirstPersonBP/Maps/EnemyPrototypingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.30-22.48.43:252][541]LightingResults: New page: Lighting Build
+[2021.07.30-22.48.43:252][541]LoadErrors: New page: Loading map: EnemyPrototypingMap.umap
+[2021.07.30-22.48.43:293][541]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-22.48.43:293][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-22.48.43:293][541]MapCheck: New page: Map Check
+[2021.07.30-22.48.43:293][541]LightingResults: New page: Lighting Build
+[2021.07.30-22.48.43:345][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.30-22.48.43:352][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.07.30-22.48.43:354][541]LogAudio: Display: Audio Device (ID: 1) registered with world 'EnemyPrototypingMap'.
+[2021.07.30-22.48.43:358][541]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.48.43:358][541]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.48.43:362][541]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.48.43:362][541]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.48.43:362][541]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.48.43:362][541]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.48.43:362][541]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.48.43:362][541]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.48.43:363][541]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.30-22.48.43:364][541]LogAIModule: Creating AISystem for world EnemyPrototypingMap
+[2021.07.30-22.48.43:412][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.07.30-22.48.43:435][541]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.30-22.48.43:435][541]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2021.07.30-22.48.43:435][541]LogFileHelpers: Loading map 'EnemyPrototypingMap' took 0.183
+[2021.07.30-22.48.43:459][541]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle)
+[2021.07.30-22.48.45:490][659]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.30-22.48.45:602][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.30-22.48.45:602][659]PIE: New page: PIE session: EnemyPrototypingMap (Jul 30, 2021, 8:48:45 AM)
+[2021.07.30-22.48.45:602][659]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap
+[2021.07.30-22.48.45:623][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020911s)
+[2021.07.30-22.48.45:625][659]LogAIModule: Creating AISystem for world EnemyPrototypingMap
+[2021.07.30-22.48.45:625][659]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2021.07.30-22.48.45:625][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EnemyPrototypingMap.EnemyPrototypingMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap.EnemyPrototypingMap (0.022643s)
+[2021.07.30-22.48.45:673][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.07.30-22.48.45:674][659]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.07.30-22.48.45:674][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.30-22.48.45:674][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.30-22.48.45:674][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.30-22.48.45:674][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.30-22.48.45:674][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.30-22.48.45:674][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.30-22.48.45:674][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.30-22.48.45:674][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.30-22.48.45:675][659]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.30-22.48.45:675][659]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.30-22.48.45:679][659]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.30-22.48.45:679][659]LogAudioMixer: Display: 1: FrontRight
+[2021.07.30-22.48.45:694][659]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.07.30-22.48.45:695][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.30-22.48.45:695][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.30-22.48.45:695][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.30-22.48.45:695][659]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.30-22.48.45:695][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.30-22.48.45:695][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.30-22.48.45:714][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.30-22.48.45:714][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.30-22.48.45:714][659]LogInit: FAudioDevice initialized.
+[2021.07.30-22.48.45:714][659]LogAudio: Display: Audio Device (ID: 31) registered with world 'EnemyPrototypingMap'.
+[2021.07.30-22.48.45:726][659]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.30-22.48.45:730][659]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.30-22.48.45:730][659]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap.EnemyPrototypingMap:PersistentLevel.BP_Enemy_2.Muzzle' 
+[2021.07.30-22.48.45:730][659]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap.EnemyPrototypingMap up for play (max tick rate 60) at 2021.07.30-15.48.45
+[2021.07.30-22.48.45:730][659]LogWorld: Bringing up level for play took: 0.002996
+[2021.07.30-22.48.45:730][659]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.07.30-22.48.45:734][659]PIE: Server logged in
+[2021.07.30-22.48.45:735][659]PIE: Play in editor total start time 0.138 seconds.
+[2021.07.30-22.49.04:575][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.30-22.49.04:575][783]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EnemyPrototypingMap
+[2021.07.30-22.49.04:576][783]LogWorld: UWorld::CleanupWorld for EnemyPrototypingMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-22.49.04:576][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-22.49.04:589][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.30-22.49.04:596][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-22.49.04:640][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.30-22.49.04:640][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-22.49.04:641][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-22.49.04:661][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.30-22.49.04:667][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.07.30-22.49.04:725][784]LogPlayLevel: Display: Destroying online subsystem :Context_42
