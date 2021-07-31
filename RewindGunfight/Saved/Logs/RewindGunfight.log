@@ -8010,3 +8010,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.31-02.02.27:708][659]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.31-02.02.27:708][659]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.07.31-02.02.27:708][659]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.07.31-02.04.41:131][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.07.31-02.04.48:307][218]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-02.04.48:310][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-02.04.48:310][218]PIE: New page: PIE session: FirstPersonExampleMap (Jul 30, 2021, 12:04:48 PM)
+[2021.07.31-02.04.48:335][218]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.31-02.04.48:344][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008487s)
+[2021.07.31-02.04.48:345][218]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.31-02.04.48:345][218]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2021.07.31-02.04.48:345][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009833s)
+[2021.07.31-02.04.48:367][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.07.31-02.04.48:371][218]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.07.31-02.04.48:371][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-02.04.48:371][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-02.04.48:371][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-02.04.48:371][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-02.04.48:371][218]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-02.04.48:371][218]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-02.04.48:371][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-02.04.48:371][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-02.04.48:371][218]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-02.04.48:371][218]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-02.04.48:374][218]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-02.04.48:374][218]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-02.04.48:380][218]LogAudioMixer: Display: Using Audio Device Headphones (2- AT2020USB+)
+[2021.07.31-02.04.48:381][218]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-02.04.48:381][218]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-02.04.48:381][218]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-02.04.48:381][218]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-02.04.48:381][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-02.04.48:381][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-02.04.48:392][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-02.04.48:392][218]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-02.04.48:392][218]LogInit: FAudioDevice initialized.
+[2021.07.31-02.04.48:392][218]LogAudio: Display: Audio Device (ID: 19) registered with world 'FirstPersonExampleMap'.
+[2021.07.31-02.04.48:402][218]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.31-02.04.48:404][218]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.07.30-19.04.48
+[2021.07.31-02.04.48:404][218]LogWorld: Bringing up level for play took: 0.001360
+[2021.07.31-02.04.48:404][218]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.07.31-02.04.48:406][218]PIE: Server logged in
+[2021.07.31-02.04.48:406][218]PIE: Play in editor total start time 0.096 seconds.
+[2021.07.31-02.04.57:796][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-02.04.57:796][336]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.31-02.04.57:797][336]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-02.04.57:797][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-02.04.57:804][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-02.04.57:817][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-02.04.57:836][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-02.04.57:836][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-02.04.57:837][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-02.04.57:851][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.07.31-02.04.57:878][337]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.07.31-02.08.47:319][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="D:/GameJam/Ghosties/RewindGunfight/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2021.07.31-02.08.47:375][698]LogSavePackage: Moving 'D:/GameJam/Ghosties/RewindGunfight/Saved/FirstPersonCharacter43548B0E4395C75DC8C8949AB2F9AA55.tmp' to 'D:/GameJam/Ghosties/RewindGunfight/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.07.31-02.08.47:388][698]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.07.31-02.08.47:388][698]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
