@@ -238,20 +238,75 @@
 			]
 		},
 		{
-			"ShaderMapHash": "823FE2D0B954511270C717C065D9160CE9D6BD59",
+			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
 			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader.uasset"
+				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "23792956A6D996F626982BF242A508C3032FD31D",
+			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
 			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst4.uasset",
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst3.uasset",
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst2.uasset",
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst1.uasset",
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst.uasset",
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst5.uasset"
+				"D:/GameJam/Ghosties/RewindGunfight/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5AABD27A417B4779A344612B92BC0BD2722ED85B",
+			"Assets": [
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/PlayerBullet.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2E38822F89E1A311F41F802102F3D3EC27E06C0E",
+			"Assets": [
+				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "985B6C5C7776AA47C97B5D2CD8A1398A8D32EC81",
+			"Assets": [
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/EnemyBullet.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
+			"Assets": [
+				"D:/GameJam/Ghosties/RewindGunfight/Content/FirstPerson/Meshes/BaseMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
+			"Assets": [
+				"D:/GameJam/Ghosties/RewindGunfight/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"Assets": [
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B48F1A15418EE14EAD298B41B9D72B657905F0C",
+			"Assets": [
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/DebugGreen.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6A3103EBF8DB36CE81962872960C00BF1EF53B83",
+			"Assets": [
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/DebugRed.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B49A1E09516D536A76AABCE5BC918F39D7A080AB",
+			"Assets": [
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/DebugYellow.uasset"
 			]
 		},
 		{
@@ -285,75 +340,20 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
+			"ShaderMapHash": "823FE2D0B954511270C717C065D9160CE9D6BD59",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "2E38822F89E1A311F41F802102F3D3EC27E06C0E",
+			"ShaderMapHash": "23792956A6D996F626982BF242A508C3032FD31D",
 			"Assets": [
-				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
-			"Assets": [
-				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
-			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/FirstPerson/Meshes/BaseMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "985B6C5C7776AA47C97B5D2CD8A1398A8D32EC81",
-			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/EnemyBullet.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
-			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5AABD27A417B4779A344612B92BC0BD2722ED85B",
-			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/PlayerBullet.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
-			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
-			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Geometry/Meshes/CubeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4B48F1A15418EE14EAD298B41B9D72B657905F0C",
-			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/DebugGreen.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B49A1E09516D536A76AABCE5BC918F39D7A080AB",
-			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/DebugYellow.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "6A3103EBF8DB36CE81962872960C00BF1EF53B83",
-			"Assets": [
-				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/DebugRed.uasset"
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst5.uasset",
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst4.uasset",
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst3.uasset",
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst.uasset",
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst1.uasset",
+				"D:/GameJam/Ghosties/RewindGunfight/Content/Assets/Materials/CelShader_Inst2.uasset"
 			]
 		}
 	]
